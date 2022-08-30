@@ -1,0 +1,4 @@
+enum ApiSchema{
+  HTTP,
+  HTTPS
+}

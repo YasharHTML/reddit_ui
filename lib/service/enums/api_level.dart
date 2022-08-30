@@ -1,0 +1,4 @@
+enum ApiLevel{
+  PRODUCTION,
+  DEVELOPMENT
+}
